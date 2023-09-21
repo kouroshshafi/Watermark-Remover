@@ -1,6 +1,6 @@
 # PDF Watermark Remover
 
-Remove PDF watermarks from academic papers using PyPDF2. It is not guarenteed to work but for most of the cases it just works!
+Remove PDF watermarks. It only uses PyPDF2 library. It works on many files
 
 ## Usage
 
