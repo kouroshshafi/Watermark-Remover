@@ -7,3 +7,4 @@ Remove PDF watermarks. It only uses PyPDF2 library. It works on many files
 ```bash
 python3 remove.py input.pdf output.pdf
 ```
+
